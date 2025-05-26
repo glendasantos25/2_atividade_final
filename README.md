@@ -1,3 +1,4 @@
+2a. Atividade Final
 Este projeto foi desenvolvido como parte da aula 5 de Machine Learning do curso de anteligência artificial da Pretalab, utilizando o Google Colab. O objetivo principal é classificar imagens de mulheres pretas e brancas por meio de técnicas de aprendizado de máquina.
 
 Para isso, utilizamos um conjunto de imagens rotuladas e aplicamos as seguintes etapas:
